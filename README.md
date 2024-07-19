@@ -1,6 +1,6 @@
 # Vision-Artificial
-Repositorio del curso
-Temas clase 1: 
+Repositorio del curso de Visión artificial
+
 
 Temas clase 2: 
   * Cómo visualizar un recorte de imagen (recorte.py)
